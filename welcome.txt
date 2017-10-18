@@ -1,1 +1,1 @@
-Welcome to lecture about Merge conflits
+Welcome to lecture "How to resolve merge conflits using Git"
